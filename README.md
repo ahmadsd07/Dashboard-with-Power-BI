@@ -1,5 +1,4 @@
 # Dashboard-with-Power-BI
-# 📊 Sales Performance Dashboard
 
 An interactive Power BI dashboard designed to analyze sales performance from **2023–2025**, focusing on revenue, profitability, store performance, product performance, and customer behavior.
 <img width="604" height="338" alt="Screenshot 2026-07-25 072815" src="https://github.com/user-attachments/assets/99d98f68-5480-40c3-ab23-0b356a4030db" /> 
